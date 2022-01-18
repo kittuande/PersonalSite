@@ -5,7 +5,8 @@
 body{
     background-color: #EEEEEE;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.2rem;
 }
 .bottom-cloud, .top-cloud{
     position: absolute;
@@ -150,7 +151,7 @@ hr{
 .footer-link{
     margin: 0 2rem;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 .footer-link:hover{
  color: white;
